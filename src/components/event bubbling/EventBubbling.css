@@ -1,0 +1,16 @@
+.grand-parent{
+    padding: 20px;
+    background-color: orange;
+    cursor: pointer;
+}
+.parent{
+    padding: 20px;
+    background-color: green;
+    cursor: pointer;
+}
+.child{
+    padding: 20px;
+    background-color: blue;
+    cursor: pointer;
+    color: white;
+}
